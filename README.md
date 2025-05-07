@@ -9,3 +9,5 @@ Update item details.
 Delete items from the inventory.
 
 It’s an easy-to-use application ideal for small-scale inventory tracking systems.
+
+![image alt](https://github.com/Jay-Tec321/inventory-management-app/blob/main/Capture.PNG?raw=true)
